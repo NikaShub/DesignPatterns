@@ -10,8 +10,8 @@ Every pattern will have its own isolated folder with practical, easy-to-understa
 
 The repository will eventually cover all standard patterns divided into these three categories:
 
-* **🏗 Structural Patterns** — Focusing on how objects and classes are composed to form larger structures (e.g., Decorator, Composite, Adapter).
-* **✨ Creational Patterns** — Dealing with object creation mechanisms in a safe and flexible way (e.g., Singleton, Builder, Factory).
-* **🧠 Behavioral Patterns** — Managing algorithms, responsibilities, and communication between objects (e.g., Observer, Strategy, Command).
+* **🏗 Structural Patterns** — Focusing on how objects and classes are composed to form larger structures (Decorator, Composite, Adapter...).
+* **✨ Creational Patterns** — Dealing with object creation mechanisms in a safe and flexible way (Singleton, Builder, Factory...).
+* **🧠 Behavioral Patterns** — Managing algorithms, responsibilities, and communication between objects (Observer, Strategy, Command...).
 
 Currently working my way through the list and adding new patterns step by step!
