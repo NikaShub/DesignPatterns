@@ -1,0 +1,1 @@
+['Total payable amount is 2.060']
